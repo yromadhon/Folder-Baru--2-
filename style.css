@@ -1,0 +1,12 @@
+* {
+  background: gold;
+  height: max-content;
+}
+h1 {
+  color: red;
+  border: blanchedalmond 3px solid;
+  border-radius: 5px;
+}
+p {
+  color: green;
+}
